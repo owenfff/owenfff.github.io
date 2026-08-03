@@ -1,0 +1,9 @@
+# Static site generated files and local tooling
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
